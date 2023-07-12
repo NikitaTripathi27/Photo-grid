@@ -1,0 +1,14 @@
+.photo-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    left:10%;
+    height:50rem;
+    width:50rem;
+    margin-left: 25%;
+}
+.media{
+    height:30rem;
+    width:30rem;
+}
